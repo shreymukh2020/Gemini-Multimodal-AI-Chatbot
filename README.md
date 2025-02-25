@@ -1,5 +1,3 @@
-# Gemini-Multimodal-AI-Chatbot
-
 # Gemini AI Suite 🤖
 
 The **Gemini AI Suite** is an advanced AI-powered application that integrates various features leveraging the **Gemini Pro** model, the **Gemini Vision model**, and other tools like **Tesseract OCR**. This app allows users to interact with AI in several ways, such as chatting with a virtual assistant, generating text from prompts, summarizing content, extracting text from images, and more.
