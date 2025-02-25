@@ -1,7 +1,7 @@
 
 # Gemini AI Suite 🤖
 
-The **Gemini AI Suite** is an Multimodal AI-powered application that integrates different features leveraging the **Gemini 1.5 Flash** model. This app allows users to interact with AI in several ways, such as chatting with a virtual assistant, generating text from prompts, summarizing content, extracting text from images, and more.
+The **Gemini AI Suite** is a Multimodal AI-powered application that integrates different features leveraging the **Gemini 1.5 Flash** model. This app allows users to interact with AI in several ways, such as chatting with a virtual assistant, generating text from prompts, summarizing content, extracting text from images, and more.
 
 ## Features
 
