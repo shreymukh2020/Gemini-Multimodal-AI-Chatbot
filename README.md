@@ -34,14 +34,6 @@ The **Gemini AI Suite** is an advanced AI-powered application that integrates va
 4. **Tesseract OCR**: Install the Tesseract OCR library by following the [installation guide](https://github.com/tesseract-ocr/tesseract).
 5. **Other dependencies**: Install necessary libraries by running `pip install -r requirements.txt`.
 
-- **🤖 AI ChatBot**: Chat with the Gemini AI chatbot.
-- **📷 Image Captioning**: Upload an image and get a caption.
-- **📝 Text Generation**: Provide a prompt and generate text.
-- **📚 Text Summarization**: Input text for summarization.
-- **📄 OCR Text Extraction**: Upload an image and extract the text.
-
-
-
 
 ### Required Libraries
 
