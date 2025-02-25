@@ -11,7 +11,7 @@ The **Gemini AI Suite** is a Multimodal AI-powered application that integrates d
 4. **Text Summarization**: 📄➡️📃 Provide a long piece of text, and get a concise summary.
 5. **OCR Text Extraction**: 📸➡️📝 Extract text from images containing textual content using **Gemini 1.5 Flash**.
 
-<img src="https://github.com/shreymukh2020/Gemini-Multimodal-AI-Chatbot/blob/main/Gemini_AI_Chatbot.jpeg" alt="Sample Image" >
+<img src="https://github.com/shreymukh2020/Gemini-Multimodal-AI-Chatbot/blob/main/Gemini_AI_Chatbot.jpeg" alt="Sample Image"  width="800" height="400">
   
 <img src="https://github.com/shreymukh2020/Gemini-Multimodal-AI-Chatbot/blob/main/Gemini_ImageCaption_Generator.jpeg" alt="Sample Image" width="800" height="400">
 
