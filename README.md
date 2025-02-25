@@ -48,7 +48,7 @@ Below are the required libraries for this app:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/gemini-ai-suite.git
+    git clone "https://github.com/shreymukh2020/Gemini-Multimodal-AI-Chatbot"
     cd gemini-ai-suite
     ```
 
