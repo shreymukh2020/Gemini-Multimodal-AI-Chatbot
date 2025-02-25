@@ -1,37 +1,36 @@
+
 # Gemini AI Suite 🤖
 
-The **Gemini AI Suite** is an advanced AI-powered application that integrates various features leveraging the **Gemini Pro** model, the **Gemini Vision model**, and other tools like **Tesseract OCR**. This app allows users to interact with AI in several ways, such as chatting with a virtual assistant, generating text from prompts, summarizing content, extracting text from images, and more.
+The **Gemini AI Suite** is an advanced AI-powered application that integrates various features leveraging the **Gemini 1.5 Flash** model. This app allows users to interact with AI in several ways, such as chatting with a virtual assistant, generating text from prompts, summarizing content, extracting text from images, and more.
 
 ## Features
 
-1. **🤖 AI ChatBot**: Interact with a conversational AI chatbot powered by **Gemini-Pro Model**.
-2. **📷Image Captioning**: Upload an image and get a caption generated using the **Gemini Vision Model**.
-3. **📝Text Generation**: Generate creative text based on a given prompt using the **Gemini-Pro Model**.
-4. **📚Text Summarization**: Provide a long piece of text, and get a concise summary.
-5. **📄OCR Text Extraction**: Extract text from images containing textual content using **Tesseract OCR**.
-
+1. **AI ChatBot**: 🤖 Interact with a conversational AI chatbot powered by **Gemini 1.5 Flash**.
+2. **Image Captioning**: 🖼️ Upload an image and get a caption generated using **Gemini 1.5 Flash**.
+3. **Text Generation**: ✍️ Generate creative text based on a given prompt using **Gemini 1.5 Flash**.
+4. **Text Summarization**: 📄➡️📃 Provide a long piece of text, and get a concise summary.
+5. **OCR Text Extraction**: 📸➡️📝 Extract text from images containing textual content using **Gemini 1.5 Flash**.
 
 ## Features and Models
 
-| Feature              | Model Used                        | Purpose                                                                 |
-|----------------------|-----------------------------------|-------------------------------------------------------------------------|
-| AI ChatBot           | Gemini-Pro Model (gemini-pro)     | Text-based conversational AI, generating responses to user input.      |
-| Image Captioning     | Gemini Vision Model (gemini-1.5-flash) | Generates captions for uploaded images.                                |
-| Text Generation      | Gemini-Pro Model (gemini-pro)     | Generates text based on a given prompt. (Explicitly using gemini-pro)   |
-| Text Summarization   | Gemini-Pro Model (gemini-pro)     | Summarizes a long piece of text into a concise version.                 |
-| OCR Text Extraction  | Tesseract OCR                     | Extracts text from images that contain textual content.                 |
-| Embeddings           | Gemini Embedding Model (embedding-001) | Converts input text into numerical embeddings for retrieval or similarity tasks. |
+| Feature              | Model Used        | Purpose                                                                 |
+|----------------------|-------------------|-------------------------------------------------------------------------|
+| AI ChatBot           | Gemini 1.5 Flash  | Text-based conversational AI, generating responses to user input.      |
+| Image Captioning     | Gemini 1.5 Flash  | Generates captions for uploaded images.                                |
+| Text Generation      | Gemini 1.5 Flash  | Generates text based on a given prompt.                                |
+| Text Summarization   | Gemini 1.5 Flash  | Summarizes a long piece of text into a concise version.                 |
+| OCR Text Extraction  | Gemini 1.5 Flash  | Extracts text from images that contain textual content.                 |
+| Embeddings           | Gemini 1.5 Flash  | Converts input text into numerical embeddings for retrieval or similarity tasks. |
 
 ## Setup Instructions
 
 ### Prerequisites
 
-1. **Python 3.x**: Ensure Python is installed on your machine.
+1. **Python 3.11**: Ensure Python is installed on your machine.
 2. **Streamlit**: Install Streamlit using `pip install streamlit`.
-3. **Google Gemini API**: You need an API key from Google to use the Gemini API. You can get it by registering on the Google Cloud platform and enabling the Gemini API.
+3. **Google Gemini API**: You need an API key from Google to use the Gemini API. You can get it by registering on the [Google Cloud platform](https://cloud.google.com/) and enabling the Gemini API.
 4. **Tesseract OCR**: Install the Tesseract OCR library by following the [installation guide](https://github.com/tesseract-ocr/tesseract).
 5. **Other dependencies**: Install necessary libraries by running `pip install -r requirements.txt`.
-
 
 ### Required Libraries
 
@@ -89,14 +88,10 @@ Below are the required libraries for this app:
 
 Once the app is running, you will be able to interact with it through a simple and intuitive interface. Each feature is accessible via the sidebar, where you can choose between:
 
-
-- **🤖 AI ChatBot**: Chat with the Gemini AI chatbot.
-- **📷 Image Captioning**: Upload an image and get a caption.
-- **📝 Text Generation**: Provide a prompt and generate text.
-- **📚 Text Summarization**: Input text for summarization.
-- **📄 OCR Text Extraction**: Upload an image and extract the text.
-
-
-
+- **AI ChatBot**: 🤖 Chat with the Gemini AI chatbot.
+- **Image Captioning**: 🖼️ Upload an image and get a caption.
+- **Text Generation**: ✍️ Provide a prompt and generate text.
+- **Text Summarization**: 📄➡️📃 Input text for summarization.
+- **OCR Text Extraction**: 📸➡️📝 Upload an image and extract the text.
 
 
