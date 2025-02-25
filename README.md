@@ -1,16 +1,17 @@
 # Gemini-Multimodal-AI-Chatbot
 
-# Gemini AI Suite
+# Gemini AI Suite 🤖
 
 The **Gemini AI Suite** is an advanced AI-powered application that integrates various features leveraging the **Gemini Pro** model, the **Gemini Vision model**, and other tools like **Tesseract OCR**. This app allows users to interact with AI in several ways, such as chatting with a virtual assistant, generating text from prompts, summarizing content, extracting text from images, and more.
 
 ## Features
 
-1. **AI ChatBot**: Interact with a conversational AI chatbot powered by **Gemini-Pro Model**.
-2. **Image Captioning**: Upload an image and get a caption generated using the **Gemini Vision Model**.
-3. **Text Generation**: Generate creative text based on a given prompt using the **Gemini-Pro Model**.
-4. **Text Summarization**: Provide a long piece of text, and get a concise summary.
-5. **OCR Text Extraction**: Extract text from images containing textual content using **Tesseract OCR**.
+1. **🤖 AI ChatBot**: Interact with a conversational AI chatbot powered by **Gemini-Pro Model**.
+2. **📷Image Captioning**: Upload an image and get a caption generated using the **Gemini Vision Model**.
+3. **📝Text Generation**: Generate creative text based on a given prompt using the **Gemini-Pro Model**.
+4. **📚Text Summarization**: Provide a long piece of text, and get a concise summary.
+5. **📄OCR Text Extraction**: Extract text from images containing textual content using **Tesseract OCR**.
+
 
 ## Features and Models
 
@@ -32,6 +33,15 @@ The **Gemini AI Suite** is an advanced AI-powered application that integrates va
 3. **Google Gemini API**: You need an API key from Google to use the Gemini API. You can get it by registering on the Google Cloud platform and enabling the Gemini API.
 4. **Tesseract OCR**: Install the Tesseract OCR library by following the [installation guide](https://github.com/tesseract-ocr/tesseract).
 5. **Other dependencies**: Install necessary libraries by running `pip install -r requirements.txt`.
+
+- **🤖 AI ChatBot**: Chat with the Gemini AI chatbot.
+- **📷 Image Captioning**: Upload an image and get a caption.
+- **📝 Text Generation**: Provide a prompt and generate text.
+- **📚 Text Summarization**: Input text for summarization.
+- **📄 OCR Text Extraction**: Upload an image and extract the text.
+
+
+
 
 ### Required Libraries
 
@@ -89,11 +99,14 @@ Below are the required libraries for this app:
 
 Once the app is running, you will be able to interact with it through a simple and intuitive interface. Each feature is accessible via the sidebar, where you can choose between:
 
+
 - **🤖 AI ChatBot**: Chat with the Gemini AI chatbot.
 - **📷 Image Captioning**: Upload an image and get a caption.
 - **📝 Text Generation**: Provide a prompt and generate text.
 - **📚 Text Summarization**: Input text for summarization.
 - **📄 OCR Text Extraction**: Upload an image and extract the text.
+
+
 
 
 
